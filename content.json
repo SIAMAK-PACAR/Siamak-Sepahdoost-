@@ -424,6 +424,21 @@
   },
   "gallery": [
     {
+      "title": "Carbon wheel",
+      "tag": "Full carbon",
+      "image": "img/g-wheel.webp"
+    },
+    {
+      "title": "Inside the wheel",
+      "tag": "Cut-away lay-up",
+      "image": "img/g-wheel-section.webp"
+    },
+    {
+      "title": "Carbon structural blade",
+      "tag": "Gloss finish",
+      "image": "img/g-blade.webp"
+    },
+    {
       "title": "Full-carbon bonnet",
       "tag": "Exposed twill",
       "image": "img/g-hood.webp"
